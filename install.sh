@@ -5,7 +5,7 @@ USUARIO="daniel810e-hue"
 REPO="leitor_live2"
 COMANDO="leitor"
 ARQUIVO="leitor_live_site2.py"
-DEPENDENCIAS="DEPENDENCIAS="requests flask pytchat edge-tts
+DEPENDENCIAS=""
 # ==================================
 
 PASTA="$HOME/$REPO"
